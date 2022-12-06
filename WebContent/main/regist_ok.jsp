@@ -47,7 +47,7 @@
       		String sql = "";
 		  	String code = request.getParameter("code");
 		  	String host = "http://localhost:8888/Corrot";
-		  	String fromEmail = "sstxz444@gmail.com";
+		  	String fromEmail = "";
 		  	String toEmail = request.getParameter("email");
 		  	String subject = "회원가입을 위한 확인메일입니다.";
 		  	String content = "다음 링크에 접속하여 이메일 확인을 진행하세요." +
