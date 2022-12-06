@@ -97,44 +97,40 @@ src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=Java
 [목차🔺](#목차)
 
 <br><br>
-
+-->
+<!--
 # 👕화면구성 및 기능
 
-### 1. 메인페이지
+
+### 1. 회원가입
+<details>
+<img src="https://github.com/SungwonDev/DaangnMarket-Web-Project/blob/master/project%20images/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%851.png" width="800" height="400"><br>
+<img src="https://github.com/SungwonDev/DaangnMarket-Web-Project/blob/master/project%20images/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%852.png" width="400" height="400"><br>
+<img src="https://github.com/SungwonDev/DaangnMarket-Web-Project/blob/master/project%20images/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%853.png" width="400" height="250">
+</details>
+- 이메일 인증해야 회원가입 가능
+<br>
+
+
+### 2. 로그인
 
 <details>
-<summary>메인화면구성 상세보기</summary>
-	
-![1main](https://user-images.githubusercontent.com/97427387/194038698-f5d483f3-3f0e-415e-a52e-fafd977361d4.png)<br>
-	
-![2main](https://user-images.githubusercontent.com/97427387/194039315-222ccb34-897e-45ff-ad2c-5984d2b54383.gif)
-
+<img src="https://github.com/SungwonDev/DaangnMarket-Web-Project/blob/master/project%20images/%EB%A1%9C%EA%B7%B8%EC%9D%B81.png" width="400" height="250"><br>
+<img src="https://github.com/SungwonDev/DaangnMarket-Web-Project/blob/master/project%20images/%EB%A1%9C%EA%B7%B8%EC%9D%B82.png" width="800" height="400">
 </details>
 
----
-
-### 2. 회원가입
-
-![3회원가입](https://user-images.githubusercontent.com/97427387/194040444-edafe2df-5372-41b5-85b7-d79fdc112c0b.gif)
-
-- validation check(유효성 검사)를 통해 중복체크&amp;입력 누락 시 회원가입X
-- ajax를 이용하여 중복확인 버튼 클릭시 중복아이디 체크
+- 로그인 완료시 Topbar [로그인/회원가입] → [로그아웃/나의 당근] 변경
 <br>
 
----
 
-### 3. 로그인
 
-![4login](https://user-images.githubusercontent.com/97427387/194041357-fbd79650-ef1b-4e3b-b2b0-7b87f5dc9e68.gif)
+### 3. 매물 확인
 
-- 로그인 완료시 Topbar [로그인/회원가입] → [로그아웃/마이페이지] 변경
-<br>
-
----
-
-### 4. ID, PW 찾기
-
-![5id pw](https://user-images.githubusercontent.com/97427387/194042643-0a92048f-160e-471f-be27-1ec722d532c2.gif)
+<details>
+<img src="https://github.com/SungwonDev/DaangnMarket-Web-Project/blob/master/project%20images/%EC%9D%B8%EA%B8%B0%EB%A7%A4%EB%AC%BC1.png" width="800" height="400">
+<img src="https://github.com/SungwonDev/DaangnMarket-Web-Project/blob/master/project%20images/%EC%9D%B8%EA%B8%B0%EB%A7%A4%EB%AC%BC2.png" width="800" height="400">
+<img src="https://github.com/SungwonDev/DaangnMarket-Web-Project/blob/master/project%20images/%EC%9D%B8%EA%B8%B0%EB%A7%A4%EB%AC%BC3.png" width="800" height="400">
+</details>
 
 - 같은 이름과 전화번호로 등록된 회원의 모든 아이디를 찾아 보여줌
 - 입력값이 없거나 정보가 없는 경우 → 일치하는 정보X alert창
