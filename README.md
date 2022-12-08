@@ -98,12 +98,16 @@ src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=Java
 
 <br><br>
 -->
-<!--
+
 # 👕화면구성 및 기능
 
 
 ### 1. 회원가입
+![main1]()<br>
 <details>
+
+	
+<img src="https://github.com/SungwonDev/DaangnMarket-Web-Project/blob/master/project%20images/1.%20%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%851.jpg" width="800" height="400"><br>
 <img src="https://github.com/SungwonDev/DaangnMarket-Web-Project/blob/master/project%20images/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%851.png" width="800" height="400"><br>
 <img src="https://github.com/SungwonDev/DaangnMarket-Web-Project/blob/master/project%20images/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%852.png" width="400" height="400"><br>
 <img src="https://github.com/SungwonDev/DaangnMarket-Web-Project/blob/master/project%20images/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%853.png" width="400" height="250">
@@ -111,7 +115,7 @@ src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=Java
 - 이메일 인증해야 회원가입 가능
 <br>
 
-
+<!--
 ### 2. 로그인
 
 <details>
