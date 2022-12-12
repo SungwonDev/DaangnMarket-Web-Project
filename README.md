@@ -46,11 +46,9 @@ src="https://img.shields.io/badge/Ajax-black?style=for-the-badge&logo=Ajax&logoC
 <br>
 
 ### BackEnd
-<img src="https://img.shields.io/badge/Java8-black?style=for-the-badge&logo=Java8&logoColor=white">&nbsp;<img 
-src="https://img.shields.io/badge/Spring MVC-black?style=for-the-badge&logo=Spring&logoColor=white">&nbsp;<img 
-src="https://img.shields.io/badge/ApacheTomcat 9.0-black?style=for-the-badge&logo=Apache Tomcat&logoColor=white">&nbsp;<img 
-src="https://img.shields.io/badge/JSTL-black?style=for-the-badge&logo=JSTL&logoColor=white">&nbsp;<img 
-src="https://img.shields.io/badge/MyBatis-black?style=for-the-badge&logo=MyBatis&logoColor=white"><br>
+<img src="https://img.shields.io/badge/Java8-black?style=for-the-badge&logo=Java8&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/ApacheTomcat 9.0-black?style=for-the-badge&logo=Apache Tomcat&logoColor=white">&nbsp;
+
 
 <br>
 
@@ -61,7 +59,7 @@ src="https://img.shields.io/badge/MyBatis-black?style=for-the-badge&logo=MyBatis
 # 개발환경
 ### Tools
 <img src="https://img.shields.io/badge/Eclipse-black?style=for-the-badge&logo=Eclipse&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=MySQL#&logoColor=white">
+<img src="https://img.shields.io/badge/heidisql-black?style=for-the-badge&logo=heidisql#&logoColor=white">
 <br>
 
 ### DBMS
@@ -113,7 +111,8 @@ src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=Java
 ![regist](https://github.com/SungwonDev/DaangnMarket-Web-Project/blob/master/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%9D%B4%EB%AF%B8%EC%A7%80%20%EC%88%98%EC%A0%95/1.%20%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%853.png)<br>	
 </details>
 
-- 이메일 인증해야 회원가입 가능
+- 이메일 인증해야 회원가입 가능합니다.
+- 로그인 완료시 Topbar [로그인/회원가입] → [로그아웃/나의 당근] 변경
 <br>
 
 
@@ -143,12 +142,15 @@ src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=Java
 	
 </details>
 
-- 로그인 완료시 Topbar [로그인/회원가입] → [로그아웃/나의 당근] 변경
+- 로그인을 하지않아도 인기매물을 확인할 수 있지만 글쓰기는 안됩니다.
+- 사진 선택시 선택한 순서대로 데이터 베이스에 저장됩니다.
+- 한 번에 여러장을 선택할 수 있습니다.
+- 매물확인시 사진을 슬라이드하여 확인가능합니다.
 <br>
 
 
 
-### 3. 매물 확인
+### 3. 동네가게 찾기
 	
 ![market](https://github.com/SungwonDev/DaangnMarket-Web-Project/blob/master/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%9D%B4%EB%AF%B8%EC%A7%80%20%EC%88%98%EC%A0%95/4.%20%EC%BA%90%EB%9F%BF%EB%A7%88%EC%BC%931.png)<br>
 
@@ -172,6 +174,13 @@ src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=Java
 	
 </details>
 
+- 로그인을 하지않아도 가게를 확인할 수 있지만 글쓰기는 안됩니다.
+- 사진 선택시 선택한 순서대로 데이터 베이스에 저장됩니다.
+- 카카오맵 API를 이용하여 주소를 넣을 수 있습니다.
+- 한 번에 여러장을 선택할 수 있습니다.
+- 가게확인시 사진을 슬라이드하여 확인가능합니다.
+- 가게확인시 카카오맵 API로 입력한 주소를 마크하여 보여줍니다.
+- 
 <br>
 
 ---
@@ -191,6 +200,11 @@ src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=Java
 ![mypage](https://github.com/SungwonDev/DaangnMarket-Web-Project/blob/master/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%9D%B4%EB%AF%B8%EC%A7%80%20%EC%88%98%EC%A0%95/5.%20%EB%82%98%EC%9D%98%EB%8B%B9%EA%B7%BC4.png)<br>
 	
 </details>
+
+- 내가 쓴 글을 확인할 수 있습니다.
+- 정보수정으로 비밀번호, 사진, 주소, 전화번호를 수정할 수 있습니다.
+
+
 <br>
 
 <br>
