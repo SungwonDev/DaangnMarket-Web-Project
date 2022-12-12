@@ -77,24 +77,24 @@ src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=Java
 [목차🔺](#목차)
 
 <br><br>
-<!-- 흐름도랑 ERD 
+흐름도랑 ERD 
 # 설계
 ### 흐름도
 <br>
-<img width="80%" src="https://user-images.githubusercontent.com/101784768/193979952-54059312-d5e4-4e25-8ec7-e233de2fc9d3.png"/>
+<img width="60%" src="https://github.com/SungwonDev/DaangnMarket-Web-Project/blob/master/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%9D%B4%EB%AF%B8%EC%A7%80%20%EC%88%98%EC%A0%95/%EC%84%A4%EA%B3%84%EB%8F%84.png"/>
 
 <br>
 
 ### ERD
 <br>
-<img width="80%" height="700px" src="https://user-images.githubusercontent.com/101784768/193981651-56a1a411-4e99-457f-a6bc-23ef7afc3632.png"><br>
+<img width="60%" height="600px" src="https://github.com/SungwonDev/DaangnMarket-Web-Project/blob/master/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%9D%B4%EB%AF%B8%EC%A7%80%20%EC%88%98%EC%A0%95/diagram.JPG"><br>
 
 <br>
 
 [목차🔺](#목차)
 
 <br><br>
--->
+
 
 # 화면구성 및 기능
 
