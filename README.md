@@ -87,7 +87,7 @@ src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=Java
 
 ### ERD
 <br>
-<img width="60%" height="600px" src="https://github.com/SungwonDev/DaangnMarket-Web-Project/blob/master/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%9D%B4%EB%AF%B8%EC%A7%80%20%EC%88%98%EC%A0%95/diagram.JPG"><br>
+<img width="60%" height="600px" src="https://github.com/SungwonDev/DaangnMarket-Web-Project/blob/master/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%9D%B4%EB%AF%B8%EC%A7%80%20%EC%88%98%EC%A0%95/diagram.PNG"><br>
 
 <br>
 
