@@ -1,6 +1,6 @@
 # ✨목차
 
-1. [소개 &amp; AWS](#laundrygo-project)
+1. [소개 &amp; AWS](#Daangn-Web-Project)
 2. [제작기간 및 참여인원](#제작기간-및-참여인원)
 3. [사용기술](#사용기술)
 4. [개발환경](#개발환경)
